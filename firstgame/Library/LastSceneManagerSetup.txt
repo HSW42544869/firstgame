@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/changyi/Desktop/\u5171\u4EABUnity/2D-game/2Dgame/Assets/\u95DC\u53611.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
